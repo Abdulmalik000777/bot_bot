@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+*.py[cod]
+.env
+data/__pycache__/
+data/vocab.db
